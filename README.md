@@ -1,0 +1,2 @@
+# 3200-Sec-
+Local Const $exposures = StringSplit("BULB|30 Sec|25 Sec|20 Sec|15 Sec|13 Sec|10 Sec|8 Sec|6 Sec|5 Sec|4 Sec|3.2 Sec|2.5 Sec|2 Sec|1.6 Sec|1.3 Sec|1 Sec|0.8 Sec|0.6 Sec|0.5 Sec|0.4 Sec|0.3 Sec|1/4 Sec|1/5 Sec|1/6 Sec|1/8 Sec|1/10 Sec|1/13 Sec|1/15 Sec|1/20 Sec|1/25 Sec|1/30 Sec|1/40 Sec|1/50 Sec|1/60 Sec|1/80 Sec|1/100 Sec|1/125 Sec|1/160 Sec|1/200 Sec|1/250 Sec|1/320 Sec|1/400 Sec|1/500 Sec|1/640 Sec|1/800 Sec|1/1000 Sec|1/1250 Sec|1/1600 Sec|1/2000 Sec|1/2500 Sec|1/3200 Sec|1/4000 Sec","|") Local Const $ISOS[6] = ["AUTO","100","200","400","800","1600"]
